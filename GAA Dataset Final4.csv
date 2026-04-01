@@ -1,4 +1,4 @@
-Junction Material,Gate Self aligned,Channel direction,Lg (nm),Wns/Dnw (nm),SS (mV/dec),Ion (A/um) ,Vov
+Junction Material,Gate Self aligned,Channel direction,Lg,Wns,SS,Ion,Vov
 P+-Si/i-Si/n+-Si,1,1,55,18,62,0.00000023,0.45
 P+-Si/i-Si/n+-Si,0,1,200,70,70,0.00001,1.2
 P+-Si/i-Si/n+-Si,0,1,170,40,50,0.00000001,1.2
